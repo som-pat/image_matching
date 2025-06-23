@@ -2,6 +2,7 @@
 
 ## Overview
 This repository implements a modular pipeline for the IMC 2025 Image Matching Challenge, integrating global image clustering, local keypoint matching, and Structure from Motion(SfM) reconstruction.
+[kaggle Notebook](https://www.kaggle.com/code/somyapatra/imc25-compnbv3-dino-superpoint-lightglue-colmap)
 
 ## Pipeline Overview
 
